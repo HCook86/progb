@@ -24,4 +24,3 @@ bar.end()                      # Call bar.end() after the for loop
 ## Features
 
 ## Limitations
-A simple python library to implement simple, customizable, multi-platform progress bars
