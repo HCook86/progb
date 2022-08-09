@@ -1,5 +1,6 @@
 # progb
-
+A simple python library to add progress bars
+![](https://github.com/HCook86/progb/img/bars.png)
 ## Installation
 
 #### Using pip:
